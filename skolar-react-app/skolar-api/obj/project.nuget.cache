@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fOm1zF5wM1I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sirsananda.mohanty\\Desktop\\Project\\skolar-react-web-application\\skolar-react-app\\skolar-api\\skolar-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sirsananda.mohanty\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\sirsananda.mohanty\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
